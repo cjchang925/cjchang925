@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :boy: &nbsp;Brief Intro
 - :mortar_board: &nbsp;I am a sophomore, majoring in ECE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
-- :smile: &nbsp;I love playing baseball :baseball: and basketball :basketball:, and coding :computer: as well.
+- :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
 - 🔭 &nbsp;I am currently working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
