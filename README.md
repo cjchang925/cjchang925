@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
-- 🔭 &nbsp;I am currently working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- :bulb: &nbsp;I am currently learning SLAM algorithm and ReactJS.
+- 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
+- :bulb: &nbsp;I am learning SLAM algorithm and ReactJS.
 
 ### :rocket: &nbsp;Skills
 <div>
