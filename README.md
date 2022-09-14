@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ### :microscope: &nbsp;Work
 - 🔭 &nbsp;I am currently working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- :books: &nbsp;I am a TA of `Introduction to Programming` in 2022 Fall.
 - :bulb: &nbsp;I am currently learning SLAM algorithm and ReactJS.
 
 ### :rocket: &nbsp;Skills
