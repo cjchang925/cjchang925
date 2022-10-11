@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### :microscope: &nbsp;Work
 - 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
+- 🔭 &nbsp;I am maintaining the website of NYCU EE previous exam.
+- 🌱 &nbsp;I am the TA of `Introduction to Computer and Programming` in 2022 Fall.
 - :bulb: &nbsp;I am learning SLAM algorithm and ReactJS.
 
 ### :rocket: &nbsp;Skills
