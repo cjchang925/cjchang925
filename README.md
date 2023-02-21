@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### :boy: &nbsp;Brief Intro
-- :mortar_board: &nbsp;I am a sophomore, majoring in ECE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
+- :mortar_board: &nbsp;I am a sophomore, majoring in EE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
 - 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
 - 🔭 &nbsp;I am maintaining the website of NYCU EE previous exam.
 - 🌱 &nbsp;I am the TA of `Introduction to Computer and Programming` in 2022 Fall.
-- :bulb: &nbsp;I am learning SLAM algorithm and ReactJS.
+- :bulb: &nbsp;I am learning React and Express.
 
 ### :rocket: &nbsp;Skills
 <div>
