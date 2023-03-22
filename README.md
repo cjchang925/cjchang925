@@ -1,5 +1,5 @@
 # 👋 Hi, I am Chi-Chun Chang
-
+### Big fan of web frontend.
 <!--
 **cjchang925/cjchang925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
+- 🔭 &nbsp;I am developing and maintaining [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
 - 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- 🔭 &nbsp;I am maintaining the website of NYCU EE previous exam.
 - 🌱 &nbsp;I am the TA of `Introduction to Computer and Programming` in 2022 Fall.
-- :bulb: &nbsp;I am learning React and Express.
+- :bulb: &nbsp;I am learning React.js and Express.js.
 
 ### :rocket: &nbsp;Skills
 <div>
+  <a href="https://zh-hant.reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
+  </a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/103064446/188316890-5251355f-4c35-4652-8470-0741e2a89c5d.png" alt="c" width="40"/>
   </a>
@@ -35,9 +38,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40"/>
-  </a>
-  <a href="https://zh-hant.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/>
   </a>
   <a href="https://www.linux.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
