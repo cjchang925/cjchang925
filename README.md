@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
-- 🔭 &nbsp;I am developing and maintaining [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
+- 🔭 &nbsp;I am the frontend developer of NCTU+. 
+- 🔭 &nbsp;I developed [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
 - 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- 🌱 &nbsp;I am the TA of `Introduction to Computer and Programming` in 2022 Fall.
+- 🌱 &nbsp;I was the TA of `Introduction to Computer and Programming` in 2022 Fall.
 - :bulb: &nbsp;I am learning React.js and Express.js.
 
 ### :rocket: &nbsp;Skills
