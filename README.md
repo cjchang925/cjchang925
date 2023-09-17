@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :boy: &nbsp;Brief Intro
-- :mortar_board: &nbsp;I am a sophomore, majoring in EE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
+- :mortar_board: &nbsp;I am a junior, majoring in EE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
