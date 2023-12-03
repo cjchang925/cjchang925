@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
 - 🔭 &nbsp;I am working as an intern in [Aiii Co,. Ltd.](https://www.aiii.ai)
 - 🌱 &nbsp;I was the TA of `Introduction to Computer and Programming` in 2022 Fall.
-- :bulb: &nbsp;I am learning React.js and Express.js.
+- :bulb: &nbsp;I am learning React.js, Angular and Express.js.
 
 ### :rocket: &nbsp;Skills
 <div>
