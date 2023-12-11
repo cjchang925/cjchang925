@@ -1,5 +1,5 @@
 # 👋 Hi, I am Chi-Chun Chang
-### Big fan of web frontend.
+### Big fan of full stack development and crypto.
 <!--
 **cjchang925/cjchang925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
