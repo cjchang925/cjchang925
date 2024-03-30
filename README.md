@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ### 📫 &nbsp;Reach Me
 <div>
   <a href="https://www.facebook.com/profile.php?id=100004392300645" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/9de4674d912f8adfc1e15da91455fe55ce29188c2cde57cb7f99e410228e0540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3138373746323f6c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="fb" height="25"/>
+    Facebook
   </a>
+  <br />
   <a href="mailto: cjchang925@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/f990237d688d3c5ce064b95cab92cd83d33a006da6e630455488873c594fc3fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4541343333353f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666c6174" alt="gmail" height="25"/>
+    Gmail
   </a>
-  
 </div>
