@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### :microscope: &nbsp;Work
 - 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org). 
 - 🔭 &nbsp;I developed [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
-- 🔭 &nbsp;I am working on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
+- 🔭 &nbsp;I worked on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
 - 🔭 &nbsp;I am working as an intern in [Aiii Co,. Ltd.](https://www.aiii.ai)
 - 🌱 &nbsp;I was the TA of `Introduction to Computer and Programming` in 2022 Fall.
 - :bulb: &nbsp;I am learning React.js, Angular and Express.js.
