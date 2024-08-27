@@ -1,5 +1,5 @@
 # 👋 Hi, I am Chi-Chun Chang
-### Big fan of full stack development and crypto.
+### Big fan of quantitative trading, crypto and full stack development.
 <!--
 **cjchang925/cjchang925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
-- 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org). 
+- 🔭 &nbsp;I implement a RSI strategy with more than 100% annual revenue and implement a XEMM stategy.
+- 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org).
 - 🔭 &nbsp;I developed [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
 - 🔭 &nbsp;I worked on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
 - 🔭 &nbsp;I am working as an intern in [Aiii Co,. Ltd.](https://www.aiii.ai)
