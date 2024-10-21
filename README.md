@@ -16,17 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ### :boy: &nbsp;Brief Intro
-- :mortar_board: &nbsp;I am a junior, majoring in EE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
+- :mortar_board: &nbsp;I am a senior, majoring in Electronics and Electrical Engineering in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
+- :mortar_board: &nbsp;I am currently an exchange student at UIUC.
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
-- 🔭 &nbsp;I implement a RSI strategy with more than 100% annual revenue and implement a XEMM stategy.
+- 🔭 &nbsp;I implemented a cross-exchange market-making stategy for cryptocurrency trading.
 - 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org).
 - 🔭 &nbsp;I developed [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
 - 🔭 &nbsp;I worked on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- 🔭 &nbsp;I am working as an intern in [Aiii Co,. Ltd.](https://www.aiii.ai)
+- 🔭 &nbsp;I worker as an intern at [Aiii Co,. Ltd.](https://www.aiii.ai)
 - 🌱 &nbsp;I was the TA of `Introduction to Computer and Programming` in 2022 Fall.
-- :bulb: &nbsp;I am learning React.js, Angular and Express.js.
+- :bulb: &nbsp;I am proficient in React.js, Angular and Express.js.
 
 ### :rocket: &nbsp;Skills
 <div>
