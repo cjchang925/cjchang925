@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### :boy: &nbsp;Brief Intro
+- :smile: &nbsp;I regularly write articles on [my personal website](https://cjchang925.github.io/home).
 - :mortar_board: &nbsp;I am a senior, majoring in Electronics and Electrical Engineering in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
 - :mortar_board: &nbsp;I am currently an exchange student at UIUC.
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
