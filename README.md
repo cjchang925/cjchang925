@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
+- 🔭 &nbsp;I am currently a portfolio manager at Blue Coast Capital.
 - 🔭 &nbsp;I implemented a cross-exchange market-making stategy for cryptocurrency trading.
 - 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org).
 - 🔭 &nbsp;I developed [NYCU EE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 2,000 students and visited more than 26,000 times!
 - 🔭 &nbsp;I worked on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
-- 🔭 &nbsp;I worker as an intern at [Aiii Co,. Ltd.](https://www.aiii.ai)
+- 🔭 &nbsp;I worked as an intern at [Aiii Co,. Ltd.](https://www.aiii.ai)
 - 🌱 &nbsp;I was the TA of `Introduction to Computer and Programming` in 2022 Fall.
 - :bulb: &nbsp;I am proficient in React.js, Angular and Express.js.
 
