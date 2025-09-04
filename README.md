@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
 ### :microscope: &nbsp;Work
-- 🔭 &nbsp;I am currently a portfolio manager at [Blue Coast](https://www.bluecoastcp.com/), focusing on market making in Taiwanese cryptocurrency exchanges.
 - 🔭 &nbsp;I am the frontend developer of [NCTU+](http://nctuplus.hopto.org).
 - 🔭 &nbsp;I developed [NYCU ECE Previous Exam Website](https://prevexam.dece.nycu.edu.tw/), which has been serving more than 5,000 students.
 - 🔭 &nbsp;I worked on a project which aims to create a map based on the data collected by LiDAR and other sensors like IMU.
