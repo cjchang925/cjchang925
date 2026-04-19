@@ -1,5 +1,4 @@
 # 👋 Hi, I am Chi-Chun Chang
-### Big fan of quantitative trading, crypto and full stack development.
 <!--
 **cjchang925/cjchang925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
