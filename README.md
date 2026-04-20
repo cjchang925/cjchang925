@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### :boy: &nbsp;Brief Intro
-- :smile: &nbsp;I regularly write articles on [my personal website](https://cjchang925.github.io/home).
-- :mortar_board: &nbsp;I am an alumni of ECE in National Yang Ming Chiao Tung University (National Chiao Tung University in the past).
+- :mortar_board: &nbsp;I am currently pursuing M.S. in Institute of Electronics at National Yang Ming Chiao Tung University, where I received B.S. in Electronics and Electrical Engineering.
 - :mortar_board: &nbsp;I was an exchange student at University of Illinois at Urbana-Champaign.
 - :smile: &nbsp;I love coding :computer:, playing baseball :baseball: and basketball :basketball:.
 
